@@ -23,5 +23,14 @@ We aim to create a world where young talents can thrive and fully unleash their 
 #### 4. Projects
 We are exploring various technologies and ideas. What projects will take shape in the future depends on our members.
 
+### How to Contribute
+We welcome contributions from anyone! :)
+
+- If you have ideas or improvements, feel free to open an issue.  
+- To contribute code, fork the repository and submit a pull request.  
+- Please follow the coding standards and provide clear commit messages.  
+
+Thank you for helping Arciris org grow!
+
 ### Join us
 Anyone who wants to take on challenges and learn new skills is welcome. If you’d like to join, please send an [email](mailto:info@mail.arciris.org)
