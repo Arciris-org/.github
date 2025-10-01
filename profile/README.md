@@ -34,3 +34,11 @@ Thank you for helping Arciris org grow!
 
 ### Join us
 Anyone who wants to take on challenges and learn new skills is welcome. If you’d like to join, please send an [email](mailto:info@mail.arciris.org)
+
+------
+
+<div align="center">
+    <a href="https://arciris.org">HomePage</a>  |
+    <a href="mailto:info@mail.arciris.org">Email</a> |
+    <a href="https://github.com/Arciris-org/.github/blob/main/profile/POLICY.md">Policy</a>
+</div>
