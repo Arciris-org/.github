@@ -23,7 +23,7 @@ Arciris org は多様性・創造性・協力を尊重します。
 - 不必要な個人情報は収集しない  
 - データは第三者に販売・提供しない  
 - 重要なデータは暗号化し、安全に保管する  
-- セキュリティ上の問題を発見した場合は [security@mail.arciris.org](mailto:security@mail.arciris.org) まで報告してください  
+- セキュリティ上の問題を発見した場合は [info@mail.arciris.org](mailto:info@mail.arciris.org) まで報告してください  
 
 ## 4. ガバナンスポリシー (Governance Policy)
 Arciris org はオープンで透明性の高い運営を行います。  
