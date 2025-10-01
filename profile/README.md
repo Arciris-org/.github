@@ -32,6 +32,9 @@ We welcome contributions from anyone! :)
 
 Thank you for helping Arciris org grow!
 
+### Contact
+- [Email](mailto:info@mail.arciris.org)
+
 ### Join us
 Anyone who wants to take on challenges and learn new skills is welcome. If you’d like to join, please send an [email](mailto:info@mail.arciris.org)
 
