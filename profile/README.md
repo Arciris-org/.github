@@ -13,7 +13,7 @@ each member values learning, creating, and improving autonomously.
 Our mission is to innovate the future through code and ideas.
 
 #### 2. Vision
-We aim to create a world where young talents can thrive and fully unleash their creativity and technical skills.
+We aim to create a world where young talents can thrive and fully unleash their creativity and technical skills. And to support the open source community around the world and further evolve the wonderful culture of OSS.
 
 #### 3. Values
 - Elegance & Integration
